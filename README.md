@@ -2,3 +2,4 @@
 <p align="center"><span style="font-size:large;">
 <b>Universal Studios API Unofficial Documentation</b></span></p>
 <p align="center"><a href="https://bit.ly/universalapi">Click to view here.</a></p>
+<p align="center">I DO NOT HOST THE API HERE.</p>
